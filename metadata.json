@@ -1,0 +1,5 @@
+{
+  "name": "Pajangan Promoshot",
+  "description": "Alat berbasis AI untuk menghasilkan gambar promosi produk pajangan. Unggah foto model dan produk untuk membuat gambar realistis model yang sedang mempromosikan produk dalam berbagai pose.",
+  "requestFramePermissions": []
+}
